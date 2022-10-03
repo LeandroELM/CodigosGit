@@ -1,0 +1,8 @@
+git init
+git config --global user.name "Leandro Lacayo"
+git config --global user.email "leandrolacayo17@gmail.com"
+git status
+git add .
+git commit -am "Se agrego un nuevo archivo"
+git remote add origin 
+git push -u origin master
